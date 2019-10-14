@@ -1,0 +1,51 @@
+#section1{
+    background: url('./11-59-25-21_1440x480\ \(1\).jpg');
+    height: 595px;
+    width: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand{
+    background: url('./imagees/sprites.png');
+    display: inline-block;
+    background-position: 5px -380px;
+    width: 125px;
+    height: 33px;
+    background-position: 0 -380;
+}
+#displayText{
+    text-align: center;
+    color: white;
+    padding: 70px;
+
+}
+.searchIcone{
+    background: url('./sprites.png');
+    height: 20px;
+    width: 70;
+    background-repeat: no-repeat;
+    background-position: -172 px 0px;
+    position: relative;
+    z-index: 9999;
+    display: inline-flex;
+    left:342px;
+    top: 39px;
+}
+#section .bg-light{
+    background: none !important;    
+}
+
+input#search{
+    padding: 0px 17px 0px 30px !important;
+    position: relative;
+     
+}
+.drpdown{
+    position: absolute;
+    right: 15px;
+    top:136px;
+}
+
+
+
+
